@@ -5,7 +5,8 @@
 - Brand new Computer Science student
 - Studying at Etown College, Elizabethtown Pennsylvania
 - Currently learning:
-    - Python 
+    - Python
+    - C#
 - Would like to learn:
     - HTML5
     - CSS3
