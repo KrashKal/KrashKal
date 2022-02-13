@@ -6,8 +6,10 @@
 - Studying at Etown College, Elizabethtown Pennsylvania
 - Currently learning:
     - Python 
+- Would like to learn:
     - HTML5
-    - CSS
+    - CSS3
+    - JavaScript
 <h2>🛠️ Skills:</h2>
 
 - Working on some 😅
