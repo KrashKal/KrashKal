@@ -7,6 +7,7 @@
 - Currently learning:
     - Python 
     - HTML5
+    - CSS
 <h2>🛠️ Skills:</h2>
 
 - Working on some 😅
