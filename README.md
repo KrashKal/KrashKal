@@ -3,7 +3,7 @@
 <h3>I'm Kyle and here's a little about me:</h3>
 
 - Brand new Computer Science student
-- Studying to Major in Computer Science at Etown College, Elizabethtown Pennsylvania
+- Studying at Etown College, Elizabethtown Pennsylvania
 - Currently learning:
     - Python 
     - HTML5
