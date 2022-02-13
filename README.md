@@ -6,7 +6,7 @@
 - Studying at Etown College, Elizabethtown Pennsylvania
 - Currently learning:
     - Python
-    - C#
+    - C++
 - Would like to learn:
     - HTML5
     - CSS3
